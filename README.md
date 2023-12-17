@@ -6,16 +6,19 @@
 ---
 ### Membership Function
 - Membership Function LDR 1
-  ![My Image](in.png)
-  ![My Image](ldr1.png)
+
+![My Image](in.png)
+![My Image](ldr1.png)
 
 - Membership Function LDR 2
-  ![My Image](in.png)
-  ![My Image](ldr2.png)
+
+![My Image](in.png)
+![My Image](ldr2.png)
 
 - Membership Function Output LED
-  ![My Image](out1.png)
-  ![My Image](out.png)
+
+![My Image](out1.png)
+![My Image](out.png)
 
 ### Rule Based
 - if Dark1 and Dark2 then LED Maximum
