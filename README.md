@@ -5,12 +5,15 @@
 - This automation system helps in optimizing energy use by regulating light intensity according to environmental conditions. Efficient use of electricity in lighting can bring economic, environmental and comfort benefits to users.
 ---
 ### Membership Function
-- MF LDR 1
-  ![My Image](ldr1.png)
-- MF LDR 2
-  ![My Image](ldr2.png)
-- MF Output LED
-  ![My Image](out.png)
+##MF LDR 1
+![My Image]((Screenshot (2207)).png)
+![My Image](ldr1.png)
+##MF LDR 2
+![My Image]((Screenshot (2207)).png)
+![My Image](ldr2.png)
+##MF Output LED
+![My Image]((Screenshot (2208)).png)
+![My Image](out.png)
 
 ### Rule Based
 - if Dark1 and Dark2 then LED Maximum
@@ -33,5 +36,5 @@
 - Breadboard
 - Acrylic
 
-### gambar hasil web CRUD
-![Gambar Hasil Projek](image/projek.jpg "Hasil Projek Website CRUD")
+### Result
+![My Image]((WhatsApp Image 2023-12-15 at 18.49.39).png)
