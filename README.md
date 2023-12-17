@@ -6,17 +6,17 @@
 ---
 ### Membership Function
 - Membership Function LDR 1
-![My Image]((Screenshot (2207)).png)
+![My Image](in.png)
 
 ![My Image](ldr1.png)
 
 - Membership Function LDR 2
-![My Image]((Screenshot (2207)).png)
+![My Image](in.png)
 
 ![My Image](ldr2.png)
 
 - Membership Function Output LED
-![My Image]((Screenshot (2208)).png)
+![My Image](out1.png)
 
 ![My Image](out.png)
 
@@ -42,4 +42,4 @@
 - Acrylic
 
 ### Result
-![My Image]((WhatsApp Image 2023-12-15 at 18.49.39).jpeg)
+![My Image](result.jpeg)
